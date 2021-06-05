@@ -4,7 +4,6 @@ h1, p {
 .akhi
 {
   width:400px;
-  height:150px;
-  border:2px solid #fffff8;
- box-shadow: 3px 2px #ffff1 ;
+  border:2px solid #ccc;
+ box-shadow:2px 0px 5px 3px #ccc;
 }
